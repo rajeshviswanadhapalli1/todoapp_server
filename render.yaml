@@ -1,5 +1,5 @@
 services:
-  - name: my-node-app
+  - name: todoappserver
     env:
       - key: NODE_ENV
         value: production
